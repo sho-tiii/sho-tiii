@@ -3,7 +3,7 @@
 # 👋 Hey, I'm Kyle!
 **Computer Science Student | Developer | Project Lead**
 
-<img src="https://i.pinimg.com/originals/02/1d/de/021ddea9f390c2a60eeed81a8cc62202.gif" width="100%" alt="Banner">
+<img src="https://raw.githubusercontent.com/ABS-CBN/shared-assets/main/placeholder.gif" width="100%" alt="Banner">
 
 *CS Student @ University of Caloocan City · Class of 2028*
 
@@ -68,9 +68,7 @@ I like building things, figuring out how stuff works, and turning ideas into act
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sho-tiii&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF" alt="Kyle's GitHub Stats" />
-
-  <img width="49%" src="https://streak-stats.demolab.com?user=sho-tiii&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Kyle's GitHub Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=sho-tiii&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Kyle's GitHub Streak" />
 
 </div>
 
