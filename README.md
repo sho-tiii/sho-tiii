@@ -3,8 +3,6 @@
 # 👋 Hey, I'm Kyle!
 **Computer Science Student | Developer | Project Lead**
 
-<img src="https://raw.githubusercontent.com/ABS-CBN/shared-assets/main/placeholder.gif" width="100%" alt="Banner">
-
 *CS Student @ University of Caloocan City · Class of 2028*
 
 I like building things, figuring out how stuff works, and turning ideas into actual projects. Most of my time goes into software development, experimenting with hardware, and working with teams to bring projects to life.
